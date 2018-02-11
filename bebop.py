@@ -7,6 +7,14 @@ import pygame as pg
 import sys
 from settings import *
 
+#Group members
+
+# Chase Delgadillo
+# Dylan Roman
+# Andy Nguyen
+# David Cao
+# Marcel Maxwell
+
 pg.init()
 
 LIST_FONT = ("Verdana")
@@ -22,7 +30,6 @@ class MyDialog(tk.simpledialog.Dialog):
     def apply(self):
         first = int(self.e1.get())
         self.result = first
-        # print (first)
 
 
 class Bebop(tk.Tk):
