@@ -1,5 +1,5 @@
 # Bineural-Beats
-Uses neural networks to generate music! Upload your midi files & create a new song.
+Generates music using user selected songs. Upload midi files to create a song. Uses the Restricted Boltzmann machine (RBM) model for faster training. Work in progress.
 
 Group Members:
 
